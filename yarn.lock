@@ -9553,6 +9553,11 @@ react-international-phone@4.2.5:
   resolved "https://registry.yarnpkg.com/react-international-phone/-/react-international-phone-4.2.5.tgz#1b3b2cbd1bd2237b2f2ece8fb6620f6c9169c0af"
   integrity sha512-jXxeEG5jvwivwSb/ImIIwIH1lSGD6VSy4W2CaInBiXo2PWnDj2BTzC0sAyZzNJarT7NX9kPdUHyGyyfziS5Rpw==
 
+react-ipfs-image@^0.7.1:
+  version "0.7.1"
+  resolved "https://registry.yarnpkg.com/react-ipfs-image/-/react-ipfs-image-0.7.1.tgz#1a4a19e7b0cb14404c74f190996a9508bdebbb0b"
+  integrity sha512-PN4Ji77YDkZJ67CoZkbcW/iQ6UMxrkIHe6Y7EXv3ehBzKhYgp99ju7GqQ/x8/j1DwtmRunhvwbmk3rdtR6ZtWQ==
+
 "react-is@^16.12.0 || ^17.0.0 || ^18.0.0", react-is@^18.0.0:
   version "18.3.1"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-18.3.1.tgz#e83557dc12eae63a99e003a46388b1dcbb44db7e"

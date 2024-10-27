@@ -2,6 +2,8 @@
 
 import React, { useEffect, useState } from "react";
 import StreamPlayer from "./StreamPlayer";
+import { vodSource } from "./source"; // Ensure this import is correct
+
 
 interface StreamInfo {
   id: string;

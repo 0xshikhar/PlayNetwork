@@ -1,34 +1,33 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Introducing PlayNetwork
 
-## Getting Started
+PlayNetwork's vision is to create an immersive, impartial and inclusive ecosystem for web3 gamers worldwide. It is a Web3 Game Streaming & Community Management Platform on Near blockchain.
 
-First, run the development server:
+###**🧐 Problem Statement**
+- Centralised streaming platforms exploit streamers' hard work and community influence through unfair compensation practices, lacking transparency and consensus.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+- Gamers invest significant time and money in games without receiving ownership, alignment, or governance, highlighting the absence of a GameFi streaming infrastructure for crypto and NFT payouts.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Transitioning from web2 game publishers' methods of acquiring and retaining users (paid ads, paid media) to a Web3 approach based on contribution (airdrops, referrals, engagement) is needed.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+###**💡 Idea / Solution**
+PlayNetwork is an interactive online gaming and learning platform that provides live gaming tutorials and tournaments for games built on the Near blockchain.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+The next evolutionary step is towards the Gamefi streaming platform. Create a sustainable ecosystem running on blockchain where game publishers, streamers and the gamer community all benefit from the contribution.
 
-## Learn More
+We empower streamers by eliminating high commission rates, eradicating arbitrary increases imposed solely by the company, significantly reducing holding periods for funds, providing clear and concise guidelines regarding account bans based on legal matters, ensuring complete transparency, and fostering a strong sense of community consensus. By doing so, we restore the integrity of the streaming ecosystem and bolster the invaluable influence and support that streamers have diligently cultivated to achieve remarkable success.
 
-To learn more about Next.js, take a look at the following resources:
+##**Features**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Interactive Web3 Gaming**: Engaging platform for gamers on Near blockchain.
+- **NFT Monetization**: Creators can mint NFTs for content monetization.
+- **Streaming & Tournaments**: Live tutorials and competitive gaming events livestream using Livepeer Decentralized Streaming services.
+- **Fair Compensation**: Elimination of high commissions and improved transparency.
+- **Discoverability Tools**: Enhanced visibility for streamers.
+- **NFT Creation**: Easy NFT creation for in-game assets.
+- **Tournament Generator**: Create and manage gaming tournaments.
+- **Community DAO**: Decentralized decision-making for fairness.
+- **Monetize Gaming Moments**: Earn from memorable gaming content.
+- **Secure Donations**: Trustless donations with anonymity.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### **Join us in reshaping the gaming ecosystem globally. Let's create a positive impact together with PlayNetwork.**

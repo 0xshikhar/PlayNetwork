@@ -49,101 +49,35 @@ const evmNetworks = [
     vanityName: "Sepolia",
   },
   {
-    blockExplorerUrls: ["https://hashscan.io/testnet"],
-    chainId: 296,
-    chainName: "Hedera Testnet",
-    iconUrls: ["https://cryptologos.cc/logos/hedera-hbar-logo.png"],
-    name: "Hedera Testnet",
+    blockExplorerUrls: ["https://aurorascan.dev"],
+    chainId: 1313161554,
+    chainName: "Aurora",
+    iconUrls: ["https://app.dynamic.xyz/assets/networks/aurora.svg"],
+    name: "Aurora",
     nativeCurrency: {
+      name: "Aurora",
+      symbol: "AUR",
       decimals: 18,
-      name: "HBAR",
-      symbol: "HBAR",
     },
-    networkId: 296,
-    rpcUrls: ["https://testnet.hashio.io/api"],
-
-    vanityName: "Hedera Testnet",
+    networkId: 1313161554,
+    rpcUrls: ["https://mainnet.aurora.dev"],
+    vanityName: "Aurora",
   },
   {
-    blockExplorerUrls: ["https://evm-testnet.flowscan.io"],
-    chainId: 545,
-    chainName: "Flow Testnet",
-    iconUrls: ["https://cryptologos.cc/logos/flow-flow-logo.png"],
-    name: "Hedera Testnet",
+    blockExplorerUrls: ["https://testnet.aurorascan.dev"],
+    chainId: 131316155,
+    chainName: "Aurora Testnet",
+    iconUrls: ["https://app.dynamic.xyz/assets/networks/aurora.svg"],
+    name: "Aurora Testnet",
     nativeCurrency: {
+      name: "Aurora",
+      symbol: "AUR",
       decimals: 18,
-      name: "FLOW",
-      symbol: "FLOW",
     },
-    networkId: 545,
-    rpcUrls: ["https://testnet.evm.nodes.onflow.org"],
-
-    vanityName: "Flow Testnet",
-  },
-  {
-    blockExplorerUrls: ["https://explorer-holesky.morphl2.io/"],
-    chainId: 2810,
-    chainName: "Morph Holesky",
-    iconUrls: ["https://cryptologos.cc/logos/flow-flow-logo.png"],
-    name: "Morph Holesky",
-    nativeCurrency: {
-      decimals: 18,
-      name: "ETH",
-      symbol: "ETH",
-    },
-    networkId: 2810,
-    rpcUrls: ["https://rpc-quicknode-holesky.morphl2.io"],
-
-    vanityName: "Morph Holesky",
-  },
-  {
-    "blockExplorerUrls": ["https://explorer.sepolia.linea.build/"],
-    "chainId": 59141,
-    "chainName": "Linea Sepolia",
-    "iconUrls": ["https://cryptologos.cc/logos/ethereum-eth-logo.png"],
-    "name": "Linea Sepolia",
-    "nativeCurrency": {
-      "decimals": 18,
-      "name": "ETH",
-      "symbol": "ETH"
-    },
-    "networkId": 59141,
-    "rpcUrls": ["https://rpc.sepolia.linea.build"],
-    "vanityName": "Linea Sepolia"
-  },
-  {
-    // rootstock testnet
-    blockExplorerUrls: ["https://explorer.testnet.rsk.co/"],
-    chainId: 31,
-    chainName: "RSK Testnet",
-    iconUrls: ["https://cryptologos.cc/logos/rsk-rsk-logo.png"],
-    name: "RSK Testnet",
-    nativeCurrency: {
-      decimals: 18,
-      name: "RBTC",
-      symbol: "RBTC",
-    },
-    networkId: 31,
-    rpcUrls: ["https://public-node.testnet.rsk.co"],
-    vanityName: "RSK Testnet",
-  },
-  // airdao testnet
-  {
-    blockExplorerUrls: ["https://explorer.airdao.io/"],
-    chainId: 22040,
-    chainName: "Airdao Testnet",
-    iconUrls: ["https://cryptologos.cc/logos/ethereum-eth-logo.png"],
-    name: "Airdao Testnet",
-    nativeCurrency: {
-      decimals: 18,
-      name: "ETH",
-      symbol: "ETH",
-    },
-    networkId: 22040,
-    rpcUrls: ["https://network.ambrosus-test.io	"],
-    vanityName: "Airdao Testnet",
+    networkId: 1313161555,
+    rpcUrls: ["https://testnet.aurora.dev"],
+    vanityName: "Aurora Testnet",
   }
-
 ];
 
 export default function RootLayout({

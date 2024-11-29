@@ -28,6 +28,7 @@ We empower streamers by eliminating high commission rates, eradicating arbitrary
 - **Community DAO**: Decentralized decision-making for fairness.
 - **Monetize Gaming Moments**: Earn from memorable gaming content.
 - **Secure Donations**: Trustless donations with anonymity.
+- **AI Chatbot**: AI chatbot for community engagement where user can ask questions about any games on platform and get answers.
 
 ### MVP
 

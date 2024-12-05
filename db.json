@@ -1,8 +1,60 @@
 {
-    "participant": [],
-    "stage": [],
-    "group": [],
-    "round": [],
-    "match": [],
-    "match_game": []
+    "participant": [
+        {
+            "id": 1,
+            "name": "Alice"
+        },
+        {
+            "id": 2,
+            "name": "Bob"
+        }
+    ],
+    "stage": [
+        {
+            "id": 1,
+            "name": "Quarterfinals"
+        },
+        {
+            "id": 2,
+            "name": "Semifinals"
+        }
+    ],
+    "group": [
+        {
+            "id": 1,
+            "name": "Group A"
+        },
+        {
+            "id": 2,
+            "name": "Group B"
+        }
+    ],
+    "round": [
+        {
+            "id": 1,
+            "name": "Round 1"
+        },
+        {
+            "id": 2,
+            "name": "Round 2"
+        }
+    ],
+    "match": [
+        {
+            "id": 1,
+            "participant1_id": 1,
+            "participant2_id": 2,
+            "stage_id": 1,
+            "group_id": 1,
+            "round_id": 1
+        }
+    ],
+    "match_game": [
+        {
+            "id": 1,
+            "match_id": 1,
+            "score1": 3,
+            "score2": 2
+        }
+    ]
 }

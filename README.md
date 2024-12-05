@@ -48,4 +48,4 @@ We empower streamers by eliminating high commission rates, eradicating arbitrary
 ![Image](/public/images/5.png)
 
 
-### **Join us in reshaping the gaming ecosystem globally. Let's create a positive impact together with PlayNetwork.**
+### **Join us in reshaping the gaming ecosystem in Near. Let's create a positive impact together with PlayNetwork.**
